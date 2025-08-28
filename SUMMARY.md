@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SB Designs Docs](README.md)
+* [Welcome](README.md)
